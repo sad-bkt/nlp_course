@@ -1,0 +1,8 @@
+jupyter
+corus
+pyspellchecker
+bs4
+nltk
+gensim
+pymorphy2
+spellchecker
