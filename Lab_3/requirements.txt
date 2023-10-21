@@ -4,3 +4,4 @@ numpy
 spacy
 scikit-learn
 gensim
+scipy
