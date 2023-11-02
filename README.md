@@ -7,6 +7,10 @@
 Векторизаторы и пайплайны в sklearn (CountVectorizer, TfidfVectorizer).
 
 [Лабораторная 3](\Lab_3)
-Векторизаторы в gensim.
+Создание эмбеддингов с помощью gensim (Word2Vec SkipGram, CBOW, fastText).
 
 [Лабораторная 4](\Lab_4)
+Классификация текстов (CNN, LSTM).
+
+[Лабораторная 5](\Lab_5)
+Тематическое моделирование (LDA, BigARTM).
