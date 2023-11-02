@@ -16,3 +16,8 @@
 ### Ссылки на colab с решениями
 - [LDA](https://colab.research.google.com/drive/16ihlMck5-JaS99axOLQHr5OCAqFylxy3?usp=sharing)
 - [BigARTM](https://colab.research.google.com/drive/1HQ2N3jgABYIloQ2l9783mxeJ534G2k5H?usp=sharing)
+
+| Модель  | Perplexity | Coherence | num_topics | 
+|---------|------------|-----------|------------|
+| LDA     | 367.35     | 0.51      | 4          |
+| BigARTM | 369.05     | 0.45      | 20         |
