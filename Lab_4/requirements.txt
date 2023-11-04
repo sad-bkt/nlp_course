@@ -1,0 +1,9 @@
+jupyter
+pandas
+numpy
+torch
+spacy
+sklearn
+tqdm
+nltk
+torchmetrics
