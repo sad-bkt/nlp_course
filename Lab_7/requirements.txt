@@ -1,0 +1,8 @@
+jupyter
+datasets
+transformers
+numpy
+evaluate
+huggingface_hub
+torch
+tqdm
